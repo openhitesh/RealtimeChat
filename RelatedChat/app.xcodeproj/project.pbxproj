@@ -2020,7 +2020,7 @@
 				TargetAttributes = {
 					29D29EF01D9A59E4006CA074 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = UUF85U8HLF;
+						DevelopmentTeam = JB8MVJ989Z;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -2599,11 +2599,11 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
 				CODE_SIGN_ENTITLEMENTS = app/app.entitlements;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = UUF85U8HLF;
+				DEVELOPMENT_TEAM = JB8MVJ989Z;
 				INFOPLIST_FILE = app/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.relatedcode.chat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chatstar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -2615,11 +2615,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
 				CODE_SIGN_ENTITLEMENTS = app/app.entitlements;
-				DEVELOPMENT_TEAM = UUF85U8HLF;
+				DEVELOPMENT_TEAM = JB8MVJ989Z;
 				INFOPLIST_FILE = app/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.relatedcode.chat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chatstar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

@@ -11,11 +11,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Related Chat</string>
+	<string>ChatStar</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0</string>
+	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
@@ -44,9 +44,9 @@
 		</array>
 	</dict>
 	<key>FacebookAppID</key>
-	<string>553468878097977</string>
+	<string>588031911400976</string>
 	<key>FacebookDisplayName</key>
-	<string>Related Chat</string>
+	<string>ChatStar</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>
