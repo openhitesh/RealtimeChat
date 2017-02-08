@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>100059175398-s8ksaqktdnjf0hm52lbt1hs9m327p3l5.apps.googleusercontent.com</string>
+	<string>875756251782-pql8isppp1p69t21llhmtek8tna3u2hm.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.100059175398-s8ksaqktdnjf0hm52lbt1hs9m327p3l5</string>
+	<string>com.googleusercontent.apps.875756251782-pql8isppp1p69t21llhmtek8tna3u2hm</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCWSlsgtMsSQzNKk7pmNjzIz4CLXAT55iI</string>
+	<string>AIzaSyByJcw_z8_YvCwofIEqYM2cLA1CpCNC6H0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>100059175398</string>
+	<string>875756251782</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.relatedcode.chat</string>
+	<string>com.chatstar</string>
 	<key>PROJECT_ID</key>
-	<string>related20-31bf1</string>
+	<string>chatstar-1163</string>
 	<key>STORAGE_BUCKET</key>
-	<string>related20-31bf1.appspot.com</string>
+	<string>chatstar-1163.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:100059175398:ios:8a9354d6483948fd</string>
+	<string>1:875756251782:ios:b8105c53ff8e033b</string>
 	<key>DATABASE_URL</key>
-	<string>https://related20-31bf1.firebaseio.com</string>
+	<string>https://chatstar-1163.firebaseio.com</string>
 </dict>
 </plist>
